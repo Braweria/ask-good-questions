@@ -54,6 +54,7 @@ Alpine.data('question', () => ({
       event.target.scrollHeight,
     )}px`;
   },
+
 }));
 
 Alpine.start();
